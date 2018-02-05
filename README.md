@@ -10,6 +10,11 @@ Download this script:
 $ wget https://raw.githubusercontent.com/juju-solutions/cdk-etcd-2to3/master/migrate
 ```
 
+Make it executable:
+```
+$ chmod +x migrate
+```
+
 Execute it:
 
 ```
